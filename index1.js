@@ -16858,7 +16858,7 @@ const Zn = "0xB11176581535022844A8797C0111D808CC7917F3",
   Af = "",
   Bf = "",
   Uf = "",
-  Hf = "https://www.dextools.io/app/en/ether/pair-explorer",
+  Hf = "https://www.dextools.io/app/en/ether/pair-explorer/0x67eD736475F307D834196ceF89c6d1350b47d061",
   _2 = (t) => {
     const e = () => {
         navigator.clipboard.writeText(Zn),

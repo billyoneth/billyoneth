@@ -16853,7 +16853,7 @@ bs(Ms("flip"));
 const Zn = "0xB11176581535022844A8797C0111D808CC7917F3",
   Ff = "https://t.me/billyonether",
   jf = "https://x.com/billyonether",
-  jp = "https://www.dextools.io/app/en/ether/pair-explorer/",
+  jp = "https://dexscreener.com/ethereum/0xB11176581535022844A8797C0111D808CC7917F3",
   $f = "",
   Af = "",
   Bf = "",
